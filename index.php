@@ -10,7 +10,7 @@
 
 <body>
     <?php
-    $notes_de_paul = [
+    $notes = [
         "maths" => [15, 17, 12],
         "français" => [14, 11],
         "sport" => [16, 18, 10],
